@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "ProjectConsent"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2006-01-02"
+  logo = "img/logo_inverted.png"
+  secondaryLogo = "img/logo.png"
+  description = "ProjectConsent | KokerZhou"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "KokerZhou"
+  image = "img/avatar.jpg"
+  subtitle = "🥬 My vegetables exploded"
+  links = [
+    { github = "https://github.com/KokerZhou" },
+  ]
